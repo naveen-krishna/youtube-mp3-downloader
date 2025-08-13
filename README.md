@@ -73,7 +73,7 @@ This script requires the following tools to be installed on your system:
 3. **Configure Playlists**:
    - Open `urls.txt`
    - Add your YouTube playlist URLs (one per line)
-   - Example: `https://www.youtube.com/playlist?list=PL7A9n1TybRSkWE9pgw04QRRH2hKuD3YIy`
+   - Example: `https://www.youtube.com/playlist?list=PL4an4gce7LuPswK2mtocj8j55DKHra_QA`
 
 4. **Run the Script**:
    ```bash
@@ -89,17 +89,6 @@ This script intelligently detects different types of YouTube URLs:
 
 All downloaded MP3 files will be saved in the `output/` directory, ready to transfer to your car's USB drive or music player.
 
-## What I Learned
-
-This project taught me a lot about:
-- Working with external APIs and libraries
-- Audio processing and format conversion
-- Building user-friendly documentation
-- Creating practical solutions for everyday problems
-
-## Output
-
-All downloaded MP3 files will be saved in the `output/` directory, ready to transfer to your car's USB drive or music player.
 
 ## Note
 
