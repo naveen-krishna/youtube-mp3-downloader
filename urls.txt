@@ -1,0 +1,5 @@
+# Paste list of playlist URLs here (one per line)
+# This script will download all videos from each playlist freshly
+
+
+https://www.youtube.com/playlist?list=PL7A9n1TybRSkWE9pgw04QRRH2hKuD3YIy
